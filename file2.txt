@@ -1,0 +1,1 @@
+Pressing i gives the ability to add/modify/ delete data
